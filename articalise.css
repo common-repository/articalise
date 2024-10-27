@@ -1,0 +1,13 @@
+.articalise-menu {
+  list-style: none;
+}
+.articalise-menu li {
+  float: left;
+  border-right: 1px solid #e3e3e3;
+  font-size: 80%;
+  padding: 0 5px;
+}
+
+.articalise-menu li:last-child, .articalise-menu li:first-child {
+  border-right: 0px;
+}
